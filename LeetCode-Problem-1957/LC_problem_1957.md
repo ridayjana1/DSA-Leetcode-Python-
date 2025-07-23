@@ -25,7 +25,7 @@ The third `'e'` was removed because it made 3 in a row.
 
 ##  My Approach
 
-### 🎯 Objective:
+### Objective:
 
 Avoid having any character repeat **three or more times** consecutively in the final string.
 
@@ -78,7 +78,7 @@ Let’s trace the input: `"leeetcode"`
 | 7     | `d`       | `o`      | 1     | Add    | `leetcod`     |
 | 8     | `e`       | `d`      | 1     | Add    | `leetcode`    |
 
-✅ Final Output: `"leetcode"`
+ Final Output: `"leetcode"`
 
 ---
 
