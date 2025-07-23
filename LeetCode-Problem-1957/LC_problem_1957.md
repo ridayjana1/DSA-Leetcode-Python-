@@ -1,18 +1,18 @@
 
 
 ````markdown
-# 🚫 Leetcode 1957 – Delete Characters to Make Fancy String
+ Leetcode 1957 – Delete Characters to Make Fancy String
 
 This repository contains a clean and beginner-friendly solution to Leetcode Problem #1957:  
 **"Delete Characters to Make Fancy String"**
 
 ---
 
-## 🧠 Problem Summary
+ Problem Summary
 
 You're given a string `value`. Your task is to return a version of the string where **no character appears 3 or more times in a row.
 
-### 💡 Example:
+ Example:
 
 ```text
 Input:  "leeetcode"
