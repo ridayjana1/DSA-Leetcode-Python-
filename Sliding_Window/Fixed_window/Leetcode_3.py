@@ -13,7 +13,7 @@ class Solution:
             while s[right] in visited:
                 visited.remove(s[left])
                 left+=1
-                count = 0
+                count -= 0
             visited.add(s[right])
             count += 1
             answer = max(answer, count)
